@@ -1,0 +1,15 @@
+F:\Projetos_C#\Fundamentos\poo_desafio\bin\Debug\net9.0\poo_desafio.exe
+F:\Projetos_C#\Fundamentos\poo_desafio\bin\Debug\net9.0\poo_desafio.deps.json
+F:\Projetos_C#\Fundamentos\poo_desafio\bin\Debug\net9.0\poo_desafio.runtimeconfig.json
+F:\Projetos_C#\Fundamentos\poo_desafio\bin\Debug\net9.0\poo_desafio.dll
+F:\Projetos_C#\Fundamentos\poo_desafio\bin\Debug\net9.0\poo_desafio.pdb
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\poo_desafio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\poo_desafio.AssemblyInfoInputs.cache
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\poo_desafio.AssemblyInfo.cs
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\poo_desafio.csproj.CoreCompileInputs.cache
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\poo_desafio.sourcelink.json
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\poo_desafio.dll
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\refint\poo_desafio.dll
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\poo_desafio.pdb
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\poo_desafio.genruntimeconfig.cache
+F:\Projetos_C#\Fundamentos\poo_desafio\obj\Debug\net9.0\ref\poo_desafio.dll
